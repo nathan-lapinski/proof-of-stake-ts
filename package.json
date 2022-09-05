@@ -1,0 +1,24 @@
+{
+  "name": "proof-of-stake-ts",
+  "version": "1.0.0",
+  "description": "Simple proof-of-stake using TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-lapinski/proof-of-stake-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-lapinski/proof-of-stake-ts/issues"
+  },
+  "homepage": "https://github.com/nathan-lapinski/proof-of-stake-ts#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.15",
+    "typescript": "^4.8.2"
+  }
+}
